@@ -1,4 +1,4 @@
-package exercise6;
+package com.iesvdm.exercise6;
 
 import java.util.ArrayList;
 import java.util.HashSet;
